@@ -1,0 +1,12 @@
+C:\Users\Ricardas\AppData\Local\Temporary Projects\pictures\bin\Debug\pictures.exe.config
+C:\Users\Ricardas\AppData\Local\Temporary Projects\pictures\bin\Debug\pictures.exe
+C:\Users\Ricardas\AppData\Local\Temporary Projects\pictures\bin\Debug\pictures.pdb
+C:\Users\Ricardas\AppData\Local\Temporary Projects\pictures\bin\Debug\pictures.xml
+C:\Users\Ricardas\AppData\Local\Temporary Projects\pictures\obj\Debug\pictures.vbprojResolveAssemblyReference.cache
+C:\Users\Ricardas\AppData\Local\Temporary Projects\pictures\obj\Debug\pictures.Form1.resources
+C:\Users\Ricardas\AppData\Local\Temporary Projects\pictures\obj\Debug\pictures.Resources.resources
+C:\Users\Ricardas\AppData\Local\Temporary Projects\pictures\obj\Debug\pictures.vbproj.GenerateResource.Cache
+C:\Users\Ricardas\AppData\Local\Temporary Projects\pictures\obj\Debug\pictures.vbproj.CoreCompileInputs.cache
+C:\Users\Ricardas\AppData\Local\Temporary Projects\pictures\obj\Debug\pictures.exe
+C:\Users\Ricardas\AppData\Local\Temporary Projects\pictures\obj\Debug\pictures.xml
+C:\Users\Ricardas\AppData\Local\Temporary Projects\pictures\obj\Debug\pictures.pdb
